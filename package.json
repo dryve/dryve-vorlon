@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "realtime web frontend monitoring",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "vorlon"
+  },
   "author": "Frederik Batuna <gobi301@gmail.com>",
   "license": "ISC",
   "dependencies": {

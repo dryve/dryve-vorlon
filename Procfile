@@ -1,1 +1,1 @@
-web: `npm bin`/vorlon
+web: npm start
