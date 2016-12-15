@@ -1,0 +1,12 @@
+{
+  "name": "dryve-vorlon",
+  "version": "1.0.0",
+  "description": "realtime web frontend monitoring",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Frederik Batuna <gobi301@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "vorlon": "^0.4.0"
+  }
+}
